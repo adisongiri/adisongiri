@@ -1,9 +1,9 @@
-<h1 align="center">A beginner coder from Nepal..... </h1>
+<h1 align="center">Welcome to my github..... </h1>
 
 ### Hey Adison here ✌
 ```py
 '''
-- 🔭 I’m currently working on ** Myself **
+- 🔭 I’m currently working on ** Web Development"
 - 🌱 I’m currently learning ** C# **
 - 💬 Never leave ** Unalome ** 
 - 📫 How to reach me **adisongiri12@gmail.com **
